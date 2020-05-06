@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Travel
+* Cook
+* Create Enjoyable Memories With:
+  * My Fiance
+  * Family
+  * Friends
+* Compete 
+  * Video Games
+  * Sports
