@@ -1,0 +1,1 @@
+I have been developing software since around *2005*. I believe that software should not only be **_simple_** to **use**, but simple to **create**, **maintain**, and subsequently **understand**. If you, the developer, have a hard time following the rules of the system it most likely means that your users will too.
